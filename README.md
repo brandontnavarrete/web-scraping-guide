@@ -23,3 +23,8 @@ This started as a way to learn web scraping for the sake of learning. Then I rea
 * request
 * time
 * tqdm
+
+# Reproducing
+* Cloning this repo should be all you need
+* If you run this repo from start to finish you will end up with a new csv file UNLESS you deleted the portion at the end which is what reads it to csv
+* I recommend creating py.files so that your notebook looks clean and stays functional.
