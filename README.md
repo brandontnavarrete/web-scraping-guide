@@ -13,6 +13,8 @@ This started as a way to learn web scraping for the sake of learning. Then I rea
   * The aim of this project is to gain a deeper understanding of web scraping and the challenges that are often encountered       in this field. By documenting my experiences and insights, I hope to create a comprehensive resource that others can use      to learn more about web scraping and avoid some of the common pitfalls that I have encountered.
 
     *  To accomplish this goal, I plan to develop a variety of strategies and solutions for addressing common issues that             arise during web scraping, including challenges related to data extraction, website access, and parsing. By sharing           my successes, failures, and mistakes, I hope to help others learn from my experiences and develop their own skills in         this area.
+     
+     *  I welcome the opportunity to collaborate with others and explore new ideas and approaches to web scraping. Ultimately, my goal is to create a useful and informative resource that can help others find success in their own web scraping endeavors.
     
     
 # Dependencies
